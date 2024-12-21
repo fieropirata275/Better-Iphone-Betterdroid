@@ -1,2 +1,2 @@
 # Betterdroid
-Additional functions for Iphone and Android phones or VM's
+Additional functions for Android phones or android VM's
